@@ -1,0 +1,144 @@
+[82352:10808:1107/232351.916:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[82352:10808:1107/232351.921:VERBOSE1:crash_service.cc(142)] window handle is 00000000000900E4
+[82352:10808:1107/232351.921:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[82352:10808:1107/232351.921:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[82352:10808:1107/232351.922:ERROR:crash_service.cc(295)] could not start dumper
+[6556:12628:1109/201959.577:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[6556:12628:1109/201959.587:VERBOSE1:crash_service.cc(142)] window handle is 0000000000020EB2
+[6556:12628:1109/201959.587:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[6556:12628:1109/201959.587:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[6556:12628:1109/201959.587:ERROR:crash_service.cc(295)] could not start dumper
+[7264:21760:1109/230038.638:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[7264:21760:1109/230038.649:VERBOSE1:crash_service.cc(142)] window handle is 0000000000030F2A
+[7264:21760:1109/230038.649:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[7264:21760:1109/230038.650:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[7264:21760:1109/230038.650:ERROR:crash_service.cc(295)] could not start dumper
+[10196:976:1109/230621.010:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[10196:976:1109/230621.017:VERBOSE1:crash_service.cc(142)] window handle is 0000000000060F0E
+[10196:976:1109/230621.017:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[10196:976:1109/230621.017:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[10196:976:1109/230621.017:ERROR:crash_service.cc(295)] could not start dumper
+[76884:114864:1121/015421.192:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[76884:114864:1121/015421.202:VERBOSE1:crash_service.cc(142)] window handle is 0000000000040EDC
+[76884:114864:1121/015421.202:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[76884:114864:1121/015421.203:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[76884:114864:1121/015421.203:ERROR:crash_service.cc(295)] could not start dumper
+[97888:22880:1121/030929.766:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[97888:22880:1121/030929.771:VERBOSE1:crash_service.cc(142)] window handle is 00000000001705E6
+[97888:22880:1121/030929.771:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[97888:22880:1121/030929.771:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[97888:22880:1121/030929.771:ERROR:crash_service.cc(295)] could not start dumper
+[26576:20436:1121/050252.285:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[26576:20436:1121/050252.295:VERBOSE1:crash_service.cc(142)] window handle is 00000000000E0FD4
+[26576:20436:1121/050252.295:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[26576:20436:1121/050252.296:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[26576:20436:1121/050252.296:ERROR:crash_service.cc(295)] could not start dumper
+[83404:103004:1121/053207.006:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[83404:103004:1121/053207.013:VERBOSE1:crash_service.cc(142)] window handle is 0000000000030FF8
+[83404:103004:1121/053207.013:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[83404:103004:1121/053207.013:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[83404:103004:1121/053207.014:ERROR:crash_service.cc(295)] could not start dumper
+[46400:45644:1121/053429.622:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[46400:45644:1121/053429.626:VERBOSE1:crash_service.cc(142)] window handle is 0000000000030992
+[46400:45644:1121/053429.626:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[46400:45644:1121/053429.627:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[46400:45644:1121/053429.627:ERROR:crash_service.cc(295)] could not start dumper
+[87680:114484:1121/053545.310:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[87680:114484:1121/053545.316:VERBOSE1:crash_service.cc(142)] window handle is 00000000000E0960
+[87680:114484:1121/053545.316:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[87680:114484:1121/053545.316:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[87680:114484:1121/053545.316:ERROR:crash_service.cc(295)] could not start dumper
+[117772:118948:1121/054926.369:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[117772:118948:1121/054926.378:VERBOSE1:crash_service.cc(142)] window handle is 0000000000570EF2
+[117772:118948:1121/054926.378:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[117772:118948:1121/054926.378:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[117772:118948:1121/054926.378:ERROR:crash_service.cc(295)] could not start dumper
+[37528:21832:1121/083656.989:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[37528:21832:1121/083656.995:VERBOSE1:crash_service.cc(142)] window handle is 0000000000040372
+[37528:21832:1121/083656.995:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[37528:21832:1121/083656.995:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[37528:21832:1121/083656.995:ERROR:crash_service.cc(295)] could not start dumper
+[10796:89608:1121/084500.837:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[10796:89608:1121/084500.849:VERBOSE1:crash_service.cc(142)] window handle is 0000000000090340
+[10796:89608:1121/084500.849:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[10796:89608:1121/084500.849:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[10796:89608:1121/084500.849:ERROR:crash_service.cc(295)] could not start dumper
+[10736:134664:1126/204421.161:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[10736:134664:1126/204421.173:VERBOSE1:crash_service.cc(142)] window handle is 00000000000C0622
+[10736:134664:1126/204421.173:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[10736:134664:1126/204421.174:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[10736:134664:1126/204421.174:ERROR:crash_service.cc(295)] could not start dumper
+[52484:260708:1201/013057.622:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[52484:260708:1201/013057.631:VERBOSE1:crash_service.cc(142)] window handle is 000000000020095C
+[52484:260708:1201/013057.631:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[52484:260708:1201/013057.632:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[52484:260708:1201/013057.632:ERROR:crash_service.cc(295)] could not start dumper
+[115576:185736:1201/013831.474:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes" --v=1]
+[115576:185736:1201/013831.480:VERBOSE1:crash_service.cc(142)] window handle is 0000000000050FB6
+[115576:185736:1201/013831.480:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes
+[115576:185736:1201/013831.480:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\SHUBHA~1\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[115576:185736:1201/013831.480:ERROR:crash_service.cc(295)] could not start dumper
